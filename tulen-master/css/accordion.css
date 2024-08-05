@@ -35,7 +35,7 @@
 	top: 0;
 	position: absolute;
 	z-index: 10;
-	background-color: #000;
+	background-color: #000000;
 	filter: alpha(opacity=40);
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=40)";
 	-webkit-opacity: 0.4;
